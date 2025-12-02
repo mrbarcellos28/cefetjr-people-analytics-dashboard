@@ -1,0 +1,5 @@
+{
+  "name": "CEFET Jr. People Analytics",
+  "description": "A robust BI dashboard for tracking members, projects, and performance indicators using Firebase and visual analytics.",
+  "requestFramePermissions": []
+}
